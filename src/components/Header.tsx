@@ -65,6 +65,12 @@ const Header = () => {
             </div>
           </div>
 
+          {/* Contact Us Button */}
+          <div className="hidden lg:block ml-auto">
+            <button className="bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-2 rounded-full font-semibold text-sm hover:from-cyan-600 hover:to-blue-700 transition-all duration-300 hover:scale-105">
+              Contact Us
+            </button>
+          </div>
           {/* Mobile Menu Button */}
           <div className="lg:hidden ml-auto">
             <button

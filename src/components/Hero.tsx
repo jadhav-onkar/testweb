@@ -23,13 +23,12 @@ const Hero = () => {
                 AI Systems
               </span>
             </span>
+            {' '}for
             <br />
             <span className="text-[2.1rem] sm:text-[2.7rem] md:text-[3.7rem] lg:text-[4.5rem] font-medium tracking-tight font-sans">
-              that transform
-            </span>
-            <br />
-            <span className="text-[2.1rem] sm:text-[2.7rem] md:text-[3.7rem] lg:text-[4.5rem] font-medium tracking-tight font-sans">
-              Enterprise operations
+              <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
+                Ecommerce Brands
+              </span>
             </span>
           </h1>
           <p className="text-gray-300 text-base md:text-lg lg:text-xl max-w-4xl mx-auto mt-2 md:mt-4 mb-8 leading-relaxed animate-fade-in-up stagger-1">
